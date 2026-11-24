@@ -1,6 +1,6 @@
 # Librería Matemática en Python — Trabajo Final
 
-**Asignatura:** Introducción a la Programación / Diseño de Informática 1  
+**Asignatura:** Informática 1  
 **Profesor:** Joaquín Sánchez  
 **Autor:** Daniel Murcia  
 
